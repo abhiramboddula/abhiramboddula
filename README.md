@@ -1,3 +1,30 @@
+# Hello, I'm Abhiram Boddula! 👋
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<div align="center">
+<!-- Default Theme -->
+<!--![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake.svg)
+
+<!-- Uncomment the theme you prefer: -->
+
+<!-- 🌑 Dark Theme -->
+![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg)
+
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhi_voxx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-boddula-38774a3a1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
